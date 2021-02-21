@@ -1,0 +1,13 @@
+{
+  "mailer": {
+    "email": "matasappforinvt@gmail.com",
+    "psw": "yourpsw"
+  },
+  "favroInfo": {
+    "organizationId": "id",
+    "widgetCommonId": "id",
+    "desiredColumn": "Reviewing",
+    "token": "token",
+    "email": "email"
+  }
+}
